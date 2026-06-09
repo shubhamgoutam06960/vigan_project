@@ -1,0 +1,24 @@
+nav a{
+   text-decoration: none;
+   margin-right: 225px;
+   color:blueviolet;
+
+}
+
+nav a:hover{
+   color:tomato;
+}
+nav a:visited{
+   color:tomato;
+}
+div a:hover{
+   color:violet
+
+}
+div a:visited{
+   color:violet;
+
+}
+table,tr,th,td{
+padding:5px;
+}
